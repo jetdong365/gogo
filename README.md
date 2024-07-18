@@ -1,2 +1,2 @@
 # gogo
-拷贝
+onekey clone data of product
